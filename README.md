@@ -10,7 +10,7 @@
 </p>
 
 ---
-**Access it here**: https://sudhanshu-patil.github.io/StockPred/stock-forecasting-js/index.html <br>
+**Access [here](https://sudhanshu-patil.github.io/StockPred/stock-forecasting-js/index.html)**  <br>
 **Stock-Prediction-Models**, Gathers machine learning and deep learning models for Stock forecasting, included trading bots and simulations.
 
 ## Table of contents
